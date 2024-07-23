@@ -41,3 +41,5 @@ I am a recent Computer Science Engineering graduate with a passion for technolog
 - [LinkedIn](https://www.linkedin.com/in/mangalikarthik/)
 - [Email](mailto:mangalikarthik@example.com)
 
+RESUME LINK :
+https://drive.google.com/drive/u/0/folders/1a3-tLkiINnFPhwk4VIDXmNfdC1bCrHYj
